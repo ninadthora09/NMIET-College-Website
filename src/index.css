@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Epunda+Slab:ital,wght@0,300..900;1,300..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Zalando+Sans+Expanded:ital,wght@0,200..900;1,200..900&family=Zalando+Sans:ital,wght@0,200..900;1,200..900&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:"Outfit", sans-serif;
+}
+
+body{
+    background:#F5F5F5;
+}
+
+a{
+    text-decoration:none;
+    color:inherit;
+    cursor:pointer;
+    line-height:1;
+}
+
+.container{
+    padding-left:10%;
+    padding-right:10%;
+}
+
+.btn{
+    background:#ebe1e1;
+    color:#212121;
+    padding:14px 25px;
+    font-size:16px;
+    cursor:pointer;
+    border-radius: 40px;
+    border:none;
+    outline:0;
+    display:inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s ease;
+}
+
+.btn img{
+    width:20px;
+    border-radius:60px;
+    background-color:#ebe1e1;
+    margin-left:10px;
+}
+
+.btn:hover{
+    transform: translateY(-5px);
+}
+
+.btn.dark-btn{
+    background:black;
+    color:white;
+}
+
+/* media query */
+
+@media (max-width:1200px){
+    .container{
+        padding-left:5%;
+        padding-right:5%;
+    }
+    .btn{
+        padding:14px 22px;
+    }
+}
