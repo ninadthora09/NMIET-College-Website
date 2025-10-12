@@ -37,9 +37,9 @@ const Contact = () => {
         <h3>Send us a message <img src={msg_icon} alt=""/></h3>
         <p>We believe communication builds great connections. Reach out to us anytime — we’re available to answer your questions and guide you toward the right path for your future.Have a question or need more details? Don’t hesitate to reach out. We’re just a call or message away and always ready to assist you.Reach out today and experience friendly support, quick responses, and expert guidance for all your needs.</p>
         <ul>
-            <li><img src={msg_icon}/>ContactName@.gmail.com</li>
-            <li><img src={phone_icon}/>+91 123-456-789-8</li>
-            <li><img src={location_icon}/>CampusX University, Knowledge Lane, Sector 5, Newtown, <br/>Mahrashtra, 543210, India</li>
+            <li><img src={msg_icon}/>nmeittalegaon@gmail.com</li>
+            <li><img src={phone_icon}/>02114-231666</li>
+            <li><img src={location_icon}/> Samarth Vidya Sankul, Vishnupuri, Talegaon Dabhade, Pune – 410507</li>
         </ul>
       </div>
       <div className="contact-col">
