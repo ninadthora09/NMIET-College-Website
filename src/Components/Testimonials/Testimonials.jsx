@@ -1,6 +1,6 @@
 import React, { useRef } from 'react'
 import './Testimonials.css'
-import next_icon from '../../assets/photos/next-btn.png'
+import next_icon from '../../assets/photos/next-btn1.png'
 import back_icon from '../../assets/photos/back-btn1.png'
 import user_info1 from '../../assets/photos/user_info1.jpg'
 import user_info2 from '../../assets/photos/user_info2.jpg'
@@ -36,11 +36,11 @@ const Testimonials = () => {
                     <div className="user-info">
                         <img src={user_info1} alt=""/>
                         <div>
-                            <h3>Limbron James</h3>
-                            <span>CampusX, India</span> 
+                            <h3>Ashitosh Wagh</h3>
+                            <span>Accenture</span> 
                         </div>
                     </div>
-                    <p>Our college offers the perfect blend of academic rigor and personal growth. From top-notch facilities to a supportive campus environment, it empowers every student to explore, learn, and achieve their goals confidently.</p>
+                    <p>"NMIET provided me with excellent learning and hands-on experience. The faculty were supportive, and the projects and internships prepared me well for my career." – Alumni</p>
                 </div>
             </li>
             <li>
@@ -48,11 +48,11 @@ const Testimonials = () => {
                     <div className="user-info">
                         <img src={user_info2} alt=""/>
                         <div>
-                            <h3>Limbron James2</h3>
-                            <span>CampusX, India</span>
+                            <h3>Rahul Rajput</h3>
+                            <span>Wipro</span>
                         </div>
                     </div>
-                    <p>We focus on shaping future-ready professionals through hands-on training, industry collaborations, and strong placement support. Choosing our college means choosing a platform where your skills meet endless opportunities.</p>
+                    <p>"My time at NMIET was invaluable. The campus environment, practical projects, and guidance from faculty helped me grow both academically and professionally." – Alumni</p>
                 </div>
             </li>
             <li>
@@ -60,11 +60,11 @@ const Testimonials = () => {
                     <div className="user-info">
                         <img src={user_info3} alt=""/>
                         <div>
-                            <h3>Limbron James3</h3>
-                            <span>CampusX, India</span>
+                            <h3>Sherwari wagh</h3>
+                            <span>Amazon</span>
                         </div>
                     </div>
-                    <p>Choosing our college means joining an institution that values excellence, innovation, and holistic development. With experienced faculty, modern infrastructure, and a focus on practical learning, we prepare students to thrive in real-world challenges.</p>
+                    <p>"NMIET gave me the skills and confidence to excel in my field. The hands-on learning and supportive faculty made all the difference." – Alumni</p>
                 </div>
             </li>
             <li>
@@ -72,11 +72,11 @@ const Testimonials = () => {
                     <div className="user-info">
                         <img src={user_info4} alt=""/>
                         <div>
-                            <h3>Limbron James3</h3>
-                            <span>CampusX, India</span>
+                            <h3>Rani Mishra</h3>
+                            <span>Myntra</span>
                         </div>
                     </div>
-                    <p>We believe that quality education builds the foundation for success. Our college combines academic excellence with modern teaching methods to ensure students gain both knowledge and practical skills that matter in today’s world.</p>
+                    <p>"Studying at NMIET was an amazing experience. The practical projects and mentorship from faculty prepared me well for real-world challenges." – Alumni</p>
                 </div>
             </li>
         </ul>

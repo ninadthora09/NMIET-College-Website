@@ -15,7 +15,16 @@ const Campus = () => {
         <img src={gallary3} alt="" />
         <img src={gallary4} alt="" />
       </div>
-      <button className="btn dark-btn">See more here <img src={arrowbtn} alt=""/></button>
+
+      <a 
+        href="https://www.nmiet.edu.in/media/gallery.php" 
+        target="_blank" 
+        rel="noopener noreferrer"
+      >
+        <button className="btn dark-btn">
+          See more here <img src={arrowbtn} alt=""/>
+        </button>
+      </a>
     </div>
   )
 }

@@ -13,9 +13,9 @@ const About = ({setPlayState}) => {
       <div className="about-right">
         <h3>ABOUT COLLEGE</h3>
         <h2>Building Tomorrow's Leaders Today</h2>
-        <p>[Your College Name] is a premier, private research university renowned for its commitment to interdisciplinary innovation and student-centered learning. Nestled on a [e.g., historic, modern, sprawling] campus in [City/Region], we provide an exceptional academic environment that encourages intellectual exploration and real-world application. Our curriculum is built on a foundation of [e.g., liberal arts, STEM focus, ethical leadership], featuring small class sizes and a 5:1 student-to-faculty rati</p>
-        <p>We are particularly known for our highly-ranked programs in [Top Program 1] and [Top Program 2], which offer unique opportunities for undergraduate research and mandatory industry placements. Beyond the classroom, our community is vibrant, supporting over 100 student clubs and [Mention a unique campus feature, e.g., a nationally-recognized Debate Team, an on-campus innovation lab].</p>
-        <p>Graduates of [Your College Name] are sought after by top employers globally, equipped not just with knowledge, but with the critical thinking and problem-solving skills needed to lead in a changing world.</p>
+        <p>Nutan Maharashtra Institute of Engineering and Technology (NMIET) is a premier private engineering college renowned for its commitment to interdisciplinary innovation and student-centered learning. Nestled on a modern, sprawling campus in Talegaon Dabhade, Pune, we provide an exceptional academic environment that encourages intellectual exploration and real-world application. Our curriculum is built on a foundation of engineering excellence and practical skills, featuring small class sizes and a supportive student-to-faculty ratio.</p>
+        <p>We are particularly known for our highly-ranked programs in Computer Engineering and Information Technology, which offer unique opportunities for undergraduate research, hands-on projects, and mandatory industry internships. Beyond the classroom, our community is vibrant, supporting over 100 student clubs and an on-campus innovation lab that fosters creativity and entrepreneurship.</p>
+        <p>Graduates of NMIET are sought after by top employers nationally and internationally, equipped not just with technical knowledge, but with the critical thinking, problem-solving, and leadership skills needed to excel in a rapidly changing world.</p>
       </div>
     </div>
   )

@@ -30,6 +30,7 @@
     justify-content: center;
     flex-direction:column;
     color:#fff;
+     text-transform: lowercase;
     cursor:pointer;
     opacity:0;
     padding-top:20%;
@@ -47,6 +48,18 @@
     padding-top:0;
 }
 
+.program .caption p:last-child {
+    text-align: center;          /* Center the paragraph text */
+    margin: 15px 0 0;            /* Space from title */
+    line-height: 1.6;            /* Comfortable reading */
+    font-size: 16px;             /* Adjust font size */
+    color: #333;                 /* Slightly darker for readability */
+    max-width: 90%;              /* Prevent text from stretching too wide */
+    margin-left: auto;
+    margin-right: auto;          /* Center paragraph horizontally */
+    word-wrap: break-word;       /* Break long words if needed */
+    color:#F5F5F5;
+}   
 
 /* media query  */
 
