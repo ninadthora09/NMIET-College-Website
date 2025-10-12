@@ -1,11 +1,11 @@
 import React, { useRef } from 'react'
 import './Testimonials.css'
-import next_icon from '../../assets/photos/next-btn1.png'
-import back_icon from '../../assets/photos/back-btn1.png'
-import user_info1 from '../../assets/photos/user_info1.jpg'
-import user_info2 from '../../assets/photos/user_info2.jpg'
-import user_info3 from '../../assets/photos/user_info3.jpg'
-import user_info4 from '../../assets/photos/user_info4.jpg'
+import next_icon from '../../assets/next-btn1.png'
+import back_icon from '../../assets/back-btn1.png'
+import user_info1 from '../../assets/user_info1.jpg'
+import user_info2 from '../../assets/user_info2.jpg'
+import user_info3 from '../../assets/user_info3.jpg'
+import user_info4 from '../../assets/user_info4.jpg'
 
 const Testimonials = () => {
 
@@ -72,7 +72,7 @@ const Testimonials = () => {
                     <div className="user-info">
                         <img src={user_info4} alt=""/>
                         <div>
-                            <h3>Rani Mishra</h3>
+                            <h3>Rani</h3>
                             <span>Myntra</span>
                         </div>
                     </div>

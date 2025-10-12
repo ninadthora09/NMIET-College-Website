@@ -1,10 +1,10 @@
 import React from 'react'
 import './Campus.css'
-import gallary1 from '../../assets/photos/gallary-1.jpg'
-import gallary2 from '../../assets/photos/gallary-2.jpg'
-import gallary3 from '../../assets/photos/gallary-3.jpg'
-import gallary4 from '../../assets/photos/gallary-4.jpg'
-import arrowbtn from '../../assets/photos/arrow1.jpg'
+import gallary1 from '../../assets/gallary-1.jpg'
+import gallary2 from '../../assets/gallary-2.jpg'
+import gallary3 from '../../assets/gallary-3.jpg'
+import gallary4 from '../../assets/gallary-4.jpg'
+import arrowbtn from '../../assets/arrow1.jpg'
 
 const Campus = () => {
   return (

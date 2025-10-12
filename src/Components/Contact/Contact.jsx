@@ -1,8 +1,8 @@
 import React from 'react'
 import './Contact.css'
-import msg_icon from '../../assets/photos/message-icon.png'
-import phone_icon from '../../assets/photos/phone-icon.png'
-import location_icon from '../../assets/photos/location-icon.png'
+import msg_icon from '../../assets/message-icon.png'
+import phone_icon from '../../assets/phone-icon.png'
+import location_icon from '../../assets/location-icon.png'
 
 const Contact = () => {  
   

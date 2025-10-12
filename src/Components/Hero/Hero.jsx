@@ -1,6 +1,6 @@
 import React from 'react'
 import './Hero.css'
-import arrow from '../../assets/photos/arrow1.jpg'
+import arrow from '../../assets/arrow1.jpg'
 
 const Hero = () => {
   return (
